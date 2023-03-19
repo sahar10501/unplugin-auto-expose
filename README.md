@@ -5,7 +5,7 @@
 # unplugin-auto-expose
 <a href="https://www.buymeacoffee.com/kozack" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="60" alt="Buy Me A Coffee"></a>
 
-Plugins for automatic `exposeInMainWorld` everething you exported from preload and easely importing exposed api in renderer.
+Plugins for automatic `exposeInMainWorld` everything you exported from preload and easily importing exposed api in renderer.
 
 ## Example
 ```ts
